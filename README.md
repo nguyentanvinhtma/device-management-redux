@@ -1,7 +1,7 @@
 # TODO Redux (ReactJS)
 > Todo App with ReactJS, using Redux, Duck Pattern and Redux Sauce 
 
-![Demo preview](https://todo-redux.vercel.app/)
+[Demo preview](https://todo-redux.vercel.app/)
 
 The "TO-DO list" app is the most popular application to develop when the goal is to study a new technology.
 
