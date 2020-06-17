@@ -41,4 +41,4 @@ Agradeço ao pessoal da @rocketseat por disponibilizar vídeos sobre o tema. Abr
 
 #todo #todolist #github #react #reactjs #node #redux #duckpattern #rocketseat
 
-![LinkedIn](https://www.linkedin.com/in/viniciusinaciopires/)
+[LinkedIn](https://www.linkedin.com/in/viniciusinaciopires/)
