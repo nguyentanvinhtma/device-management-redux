@@ -3,6 +3,10 @@
 
 [Demo preview](https://todo-redux.vercel.app/)
 
+![Preview](https://github.com/vinaciotm/todo-redux/blob/master/public/todo-redux.jpeg?raw=true)
+
+![Preview Mobile](https://github.com/vinaciotm/todo-redux/blob/master/public/todo-redux-mobile.jpeg?raw=true)
+
 The "TO-DO list" app is the most popular application to develop when the goal is to study a new technology.
 
 So, I made this app to study "Redux, Duck Pattern and Redux Sauce"...
