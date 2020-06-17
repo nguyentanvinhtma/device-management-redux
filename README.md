@@ -3,10 +3,10 @@
 
 [Demo preview](https://todo-redux.vercel.app/)
 
-## On desktop:
+## Desktop:
 ![Preview](https://github.com/vinaciotm/todo-redux/blob/master/public/todo-redux.jpeg?raw=true)
 
-## On mobile:
+## Mobile:
 ![Preview Mobile](https://github.com/vinaciotm/todo-redux/blob/master/public/todo-redux-mobile.jpeg?raw=true)
 
 The "TO-DO list" app is the most popular application to develop when the goal is to study a new technology.
