@@ -1,7 +1,7 @@
 import { combineReducers } from "redux";
 
-import todos from "./todos";
+import devices from "./devices";
 
 export default combineReducers({
-  todos,
+  devices
 });

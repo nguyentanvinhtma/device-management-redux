@@ -2,13 +2,13 @@ import React from "react";
 import { Provider } from "react-redux";
 
 import store from "./store";
-import TodoList from "./components/TodoList";
+import DeviceList from "./components/DeviceManagement";
 
 import "./App.css";
 
 const App = () => (
   <Provider store={store}>
-    <TodoList />
+    <DeviceList />
   </Provider>
 );
 
