@@ -1,0 +1,8 @@
+#appbar {
+  flex-direction: row !important;
+  /* align-content: none !important; */
+}
+
+#homeIcon {
+  cursor: pointer;
+}
